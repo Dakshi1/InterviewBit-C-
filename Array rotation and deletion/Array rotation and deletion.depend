@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1522160270 source:/home/dakshi/Documents/C++ codes/Coursera/Array rotation and deletion/main.cpp
+	<iostream>
+	<vector>
+
